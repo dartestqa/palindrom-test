@@ -15,7 +15,7 @@
 
 1. Склонируйте репозиторий с проектом:
 ```bash
-git clone https://github.com/dartestqa/test-palindrom.git
+git clone https://github.com/dartestqa/palindrom-test.git
 ```
 или скачайте zip‑архив по ссылке и распакуйте его.
 
